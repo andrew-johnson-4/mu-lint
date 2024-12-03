@@ -1,0 +1,9 @@
+
+import LIB/default.lm;
+
+let main(argc: C_int, argv: String[]): Nil = (
+   print("TODO")
+   # -r, --rule [rule-file] (load a rule file)
+   # [source file] (source file to be linted)
+);
+
